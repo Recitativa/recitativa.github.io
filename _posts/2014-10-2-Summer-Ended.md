@@ -10,6 +10,7 @@ category: impressions
 **"适合秋天的专辑"**
 
 ###1.后摇篇
+
 后摇这种闷骚装逼的音乐当然是秋天才能听的.
 
 + All of a Sudden I Miss Everyone
@@ -18,7 +19,7 @@ category: impressions
 
     曲目:So Long,Lonesome
 
-        **专如其名**
+      **专如其名**
 
 + Enjoy Eternal Bliss
 
@@ -26,7 +27,7 @@ category: impressions
 
     曲目:We Flood Empty Lakes
 
-        **"回想那年夏天"**
+      **"回想那年夏天"**
 
 ###2.异国音乐篇
 
@@ -42,25 +43,25 @@ category: impressions
 
     曲目:Se Potessi Ancora,Balada Para Mi Muerte
 
-    (需特别注意,男高音版本而非女中音版本)
+    **(需特别注意,男高音版本而非女中音版本)**
 
-    Hoy que Dios me deja de soñar, 
+      **Hoy que Dios me deja de soñar, **
 
-    a mi olvido iré por Santa Fe, 
+      **a mi olvido iré por Santa Fe, **
 
-    sé que en nuestra esquina vos ya estás 
+      **sé que en nuestra esquina vos ya estás **
 
-    toda de tristeza, hasta los pies.
+      **toda de tristeza, hasta los pies.**
 
-    Abrazame fuerte que por dentro 
+      **Abrazame fuerte que por dentro **
 
-    me oigo muertes, viejas muertes, 
+      **me oigo muertes, viejas muertes, **
 
-    agrediendo lo que amé. 
+      **agrediendo lo que amé. **
 
-    Alma mía, vamos yendo, 
-
-    llega el día, no llorés. 
+      **Alma mía, vamos yendo, **
+      
+      **llega el día, no llorés. **
 
 
 ####Flamenco:
@@ -71,7 +72,7 @@ category: impressions
 
     曲目:太多不一一推荐.
 
-        **弗拉门戈唱出来的痛苦有谁能描述.**
+      **弗拉门戈唱出来的痛苦有谁能描述.**
 
 ####Ranchera:
 
@@ -81,13 +82,13 @@ category: impressions
 
     曲目:Macorina,Aquel Amor
 
-        **Aquel amor**
+      **Aquel amor**
 
-        **Que destrozó mi vida,**
+      **Que destrozó mi vida,**
 
-        **Aquel amor**
-
-        **Que fue mi perdición. **
+      **Aquel amor**
+      
+      **Que fue mi perdición. **
 
 
 ####印度古典音乐:
@@ -98,7 +99,7 @@ category: impressions
 
     曲目: Raga Miyan Ki Malhar
 
-        **雨下了四年十一个月两天.**
+      **雨下了四年十一个月两天.**
 
 ####波斯古典音乐:
 
@@ -108,7 +109,7 @@ category: impressions
 
     曲目:全部
 
-        **那些远离大地的传奇叙说魂灵，那曾在此而又归来者**
+      **那些远离大地的传奇叙说魂灵，那曾在此而又归来者**
 
 ####Klezmer:
 
@@ -118,7 +119,7 @@ category: impressions
 
     曲目: The Kiss
 
-        **我将化作灰烬**
+      **我将化作灰烬**
 
 ###3.爵士,金属,摇滚,布鲁斯,乡村等
 
@@ -131,7 +132,8 @@ category: impressions
     乐队:Electric Masada
 
     曲目:全部
-        **Pure Fvcking Madness**
+
+      **Pure Fvcking Madness**
 
 +Live at the Montreal Jazz Festival
 
@@ -139,7 +141,7 @@ category: impressions
 
     曲目:Adios Nonino,Chin Chin,Otoño Porteño
 
-        **皮亚佐拉也可以算是爵士,我想...**
+      **皮亚佐拉也可以算是爵士,我想...**
 
 ####金属
 
@@ -149,13 +151,13 @@ category: impressions
 
     曲目:Depression,Eternal Beauty of the Trees
 
-        **金属濒死的哀鸣；** 
+      **金属濒死的哀鸣；** 
 
-        **一只白色的野兽死去，倒下。 **
+      **一只白色的野兽死去，倒下。 **
 
-        **皮肤深褐的女孩们歌声沙哑 **
+      **皮肤深褐的女孩们歌声沙哑 **
 
-        **飘散在落叶中，随风而逝。 **
+      **飘散在落叶中，随风而逝。 **
  
 + De Zwaarte van het Doorstane
 
@@ -163,11 +165,11 @@ category: impressions
 
     曲目:全部
 
-        **Then some one said, “We will return no more”;
+      **Then some one said, “We will return no more”;
                 
-                        And all at once they sang, “Our island home Is
+      **And all at once they sang, “Our island home Is**
                 
-                        far beyond the wave; we will no longer roam**
+      **far beyond the wave; we will no longer roam**
 
 ####摇滚
 
@@ -177,7 +179,7 @@ category: impressions
 
     曲目:Palace of Versailles
 
-        **Your time is wasting in the wind**
+      **Your time is wasting in the wind**
 
 ####布鲁斯
 
@@ -187,11 +189,11 @@ category: impressions
 
     曲目:Hellhound On My Trail 
 
-        **there's a hellhound on my trail,
+      **there's a hellhound on my trail,
                 
-                        hellhound on my trail, 
+      **hellhound on my trail, **
                 
-                        hellhound on my trail**
+      **hellhound on my trail**
 
 #####乡村
 
@@ -201,7 +203,7 @@ category: impressions
 
     曲目:Yesterday When I Was Young
 
-        **The game of love I played with arrogance and pride. **
+      **The game of love I played with arrogance and pride. **
 
     此专辑只推这一首曲子,  比Charles Aznavour的原唱好.
 
