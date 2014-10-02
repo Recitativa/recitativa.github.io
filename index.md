@@ -1,4 +1,4 @@
-<center><font size = 24>**Recitativa**</font></center>
+![](http://recitativa.github.com/pictures/head.jpg)
 
 *******
 
