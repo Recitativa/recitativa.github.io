@@ -11,6 +11,7 @@ category: impressions
 
 ###1.后摇篇
 后摇这种闷骚装逼的音乐当然是秋天才能听的.
+
 + All of a Sudden I Miss Everyone
 
 乐队:Explosions in the Sky
@@ -35,19 +36,19 @@ category: impressions
 #####Tango:
 + Balada Para Un Loco(Piazzolla Wallet Box,4th CD)
 
-作曲者:Astor Piazzolla
+    作曲者:Astor Piazzolla
 
-曲目:Se Potessi Ancora,Balada Para Mi Muerte
+    曲目:Se Potessi Ancora,Balada Para Mi Muerte
 
-(需特别注意,男高音版本而非女中音版本)
+    (需特别注意,男高音版本而非女中音版本)
 
-Hoy que Dios me deja de soñar, 
+    Hoy que Dios me deja de soñar, 
 
-a mi olvido iré por Santa Fe, 
+    a mi olvido iré por Santa Fe, 
 
-sé que en nuestra esquina vos ya estás 
+    sé que en nuestra esquina vos ya estás 
 
-toda de tristeza, hasta los pies.
+    toda de tristeza, hasta los pies.
 
 Abrazame fuerte que por dentro 
 
