@@ -1,9 +1,10 @@
-auto: true
-
-markdown: discount
-pygments: true
+title: Reci
+highlighter: pygments
+markdown: redcarpet
+extensions: [no_fenced_code_blocks]
+extensions: [tables]
 paginate: 8
 permalink: /:categories/:title
-feed: /feed.xml
-title: Reci
 url: http://recitativa.github.com
+timezone: Asia/Shanghai
+custom_css: true
