@@ -1,4 +1,4 @@
-![](http://recitativa.github.com/pictures/head.jpg)
+![](http://recitativa.github.com/pictures/head.jpeg)
 
 *******
 
