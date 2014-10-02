@@ -14,26 +14,28 @@ category: impressions
 
 + All of a Sudden I Miss Everyone
 
-乐队:Explosions in the Sky
+    乐队:Explosions in the Sky
 
-曲目:So Long,Lonesome
+    曲目:So Long,Lonesome
 
-专如其名
+        **专如其名**
 
 + Enjoy Eternal Bliss
 
-乐队:Yndi Halda
+    乐队:Yndi Halda
 
-曲目:We Flood Empty Lakes
+    曲目:We Flood Empty Lakes
 
-"回想那年夏天"
+        **"回想那年夏天"**
 
 ###2.异国音乐篇
+
 秋天当然得听Tango,Flamenco,Ranchera,人歌人哭水声中.
 
 另外又不能忘记如悲风一般的印度和波斯的古典音乐,以及如烈火般的Klezmer
 
-#####Tango:
+####Tango:
+
 + Balada Para Un Loco(Piazzolla Wallet Box,4th CD)
 
     作曲者:Astor Piazzolla
@@ -50,152 +52,161 @@ category: impressions
 
     toda de tristeza, hasta los pies.
 
-Abrazame fuerte que por dentro 
+    Abrazame fuerte que por dentro 
 
-me oigo muertes, viejas muertes, 
+    me oigo muertes, viejas muertes, 
 
-agrediendo lo que amé. 
+    agrediendo lo que amé. 
 
-Alma mía, vamos yendo, 
+    Alma mía, vamos yendo, 
 
-llega el día, no llorés. 
+    llega el día, no llorés. 
 
 
-#####Flamenco:
+####Flamenco:
 
 + Grands Cantaores Du Flamenco(共20CD)
 
-歌手:VA
+    歌手:VA
 
-曲目:太多不一一推荐.
+    曲目:太多不一一推荐.
 
-弗拉门戈唱出来的痛苦有谁能描述.
+        **弗拉门戈唱出来的痛苦有谁能描述.**
 
-#####Ranchera:
+####Ranchera:
 
  + Chavela Vargas y Antonio Bribiesca
 
-歌手:Chavela Vargas
+    歌手:Chavela Vargas
 
-曲目:Macorina,Aquel Amor
+    曲目:Macorina,Aquel Amor
 
-Aquel amor
+        **Aquel amor**
 
-Que destrozó mi vida,
+        **Que destrozó mi vida,**
 
-Aquel amor
+        **Aquel amor**
 
-Que fue mi perdición. 
+        **Que fue mi perdición. **
 
 
-#####印度古典音乐:
+####印度古典音乐:
+
 + Inspiration India- Duets for Sitar, Surbahar, Sheh
 
-艺术家:Vilayat Khan
+    艺术家:Vilayat Khan
 
-曲目: Raga Miyan Ki Malhar
+    曲目: Raga Miyan Ki Malhar
 
-雨下了四年十一个月两天.
+        **雨下了四年十一个月两天.**
 
-#####波斯古典音乐:
+####波斯古典音乐:
 
 + Iran: Persian Classical Music
 
-艺术家:Faramarz Payvar & Ensemble
+    艺术家:Faramarz Payvar & Ensemble
 
-曲目:全部
+    曲目:全部
 
-那些远离大地的传奇叙说魂灵，那曾在此而又归来者
+        **那些远离大地的传奇叙说魂灵，那曾在此而又归来者**
 
-#####Klezmer:
+####Klezmer:
+
 + Jew With Horns
 
-艺术家:Klezmatics 
+    艺术家:Klezmatics 
 
-曲目: The Kiss
+    曲目: The Kiss
 
-我将化作灰烬
+        **我将化作灰烬**
 
 ###3.爵士,金属,摇滚,布鲁斯,乡村等
+
 都是不怎么适合秋天的乐种,但少了你们又如何生存..
 
-#####爵士 
+####爵士 
+
 + At the Mountains of Madness
 
-乐队:Electric Masada
+    乐队:Electric Masada
 
-曲目:全部
+    曲目:全部
+        **Pure Fvcking Madness**
 
-Live at the Montreal Jazz Festival
++Live at the Montreal Jazz Festival
 
-艺术家:Astor Piazzolla
+    艺术家:Astor Piazzolla
 
-曲目:Adios Nonino,Chin Chin,Otoño Porteño
+    曲目:Adios Nonino,Chin Chin,Otoño Porteño
 
-皮亚佐拉也可以算是爵士,我想...
+        **皮亚佐拉也可以算是爵士,我想...**
 
-#####金属
+####金属
+
 + Sounds of Pain
 
-乐队:Uaral
+    乐队:Uaral
 
-曲目:Depression,Eternal Beauty of the Trees
+    曲目:Depression,Eternal Beauty of the Trees
 
-金属濒死的哀鸣； 
+        **金属濒死的哀鸣；** 
 
-一只白色的野兽死去，倒下。 
+        **一只白色的野兽死去，倒下。 **
 
-皮肤深褐的女孩们歌声沙哑 
+        **皮肤深褐的女孩们歌声沙哑 **
 
-飘散在落叶中，随风而逝。 
+        **飘散在落叶中，随风而逝。 **
  
 + De Zwaarte van het Doorstane
 
-乐队:Akelei
+    乐队:Akelei
 
-曲目:全部
+    曲目:全部
 
-Then some one said, “We will return no more”;
+        **Then some one said, “We will return no more”;
+                
+                        And all at once they sang, “Our island home Is
+                
+                        far beyond the wave; we will no longer roam**
 
-And all at once they sang, “Our island home Is
+####摇滚
 
-far beyond the wave; we will no longer roam
-
-#####摇滚
 + Time Passages
 
-乐队:Al Stewart
+    乐队:Al Stewart
 
-曲目:Palace of Versailles
+    曲目:Palace of Versailles
 
-Your time is wasting in the wind
+        **Your time is wasting in the wind**
 
-#####布鲁斯
+####布鲁斯
+
 + King of the Delta Blues Singers
 
-歌手:Robert Johnson 
+    歌手:Robert Johnson 
 
-曲目:Hellhound On My Trail 
+    曲目:Hellhound On My Trail 
 
-there's a hellhound on my trail,
-
-hellhound on my trail, 
-
-hellhound on my trail
+        **there's a hellhound on my trail,
+                
+                        hellhound on my trail, 
+                
+                        hellhound on my trail**
 
 #####乡村
 
 + Roy Clark Greatest Hits
 
-歌手:Roy Clark
+    歌手:Roy Clark
 
-曲目:Yesterday When I Was Young
+    曲目:Yesterday When I Was Young
 
-The game of love I played with arrogance and pride. 
+        **The game of love I played with arrogance and pride. **
 
-此专辑只推这一首曲子,  比Charles Aznavour的原唱好.
+    此专辑只推这一首曲子,  比Charles Aznavour的原唱好.
 
 ###4.古典
+
 秋天必然属于贝多芬晚期,勃拉姆斯,舒伯特和布鲁克纳.
 
 + 贝多芬:Op.111(Richter 1963或Backhaus Decca版),晚期弦乐四重奏(Takacs). 另外非晚期作品 第三钢协(Michelangeli),第一奏鸣曲(Backhaus)都不错.
