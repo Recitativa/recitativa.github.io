@@ -45,23 +45,23 @@ category: impressions
 
     **(需特别注意,男高音版本而非女中音版本)**
 
-      **Hoy que Dios me deja de soñar, **
+      **Hoy que Dios me deja de soñar,**
 
-      **a mi olvido iré por Santa Fe, **
+      **a mi olvido iré por Santa Fe,**
 
-      **sé que en nuestra esquina vos ya estás **
+      **sé que en nuestra esquina vos ya estás**
 
       **toda de tristeza, hasta los pies.**
 
-      **Abrazame fuerte que por dentro **
+      **Abrazame fuerte que por dentro**
 
-      **me oigo muertes, viejas muertes, **
+      **me oigo muertes, viejas muertes,**
 
-      **agrediendo lo que amé. **
+      **agrediendo lo que amé.**
 
-      **Alma mía, vamos yendo, **
+      **Alma mía, vamos yendo,**
       
-      **llega el día, no llorés. **
+      **llega el día, no llorés.**
 
 
 ####Flamenco:
@@ -88,7 +88,7 @@ category: impressions
 
       **Aquel amor**
       
-      **Que fue mi perdición. **
+      **Que fue mi perdición.**
 
 
 ####印度古典音乐:
@@ -135,7 +135,7 @@ category: impressions
 
       **Pure Fvcking Madness**
 
-+Live at the Montreal Jazz Festival
++ Live at the Montreal Jazz Festival
 
     艺术家:Astor Piazzolla
 
@@ -153,11 +153,11 @@ category: impressions
 
       **金属濒死的哀鸣；** 
 
-      **一只白色的野兽死去，倒下。 **
+      **一只白色的野兽死去,倒下.**
 
-      **皮肤深褐的女孩们歌声沙哑 **
+      **皮肤深褐的女孩们歌声沙哑.**
 
-      **飘散在落叶中，随风而逝。 **
+      **飘散在落叶中,随风而逝.**
  
 + De Zwaarte van het Doorstane
 
@@ -165,7 +165,7 @@ category: impressions
 
     曲目:全部
 
-      **Then some one said, “We will return no more”;
+      **Then some one said, “We will return no more”;**
                 
       **And all at once they sang, “Our island home Is**
                 
@@ -189,9 +189,9 @@ category: impressions
 
     曲目:Hellhound On My Trail 
 
-      **there's a hellhound on my trail,
+      **there's a hellhound on my trail,**
                 
-      **hellhound on my trail, **
+      **hellhound on my trail,**
                 
       **hellhound on my trail**
 
@@ -203,7 +203,7 @@ category: impressions
 
     曲目:Yesterday When I Was Young
 
-      **The game of love I played with arrogance and pride. **
+      **The game of love I played with arrogance and pride.**
 
     此专辑只推这一首曲子,  比Charles Aznavour的原唱好.
 
